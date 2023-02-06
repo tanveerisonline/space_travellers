@@ -71,7 +71,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a href="https://space-travellers.onrender.com">Click to visit</a>
 
 > Demo link coming soon...
 
